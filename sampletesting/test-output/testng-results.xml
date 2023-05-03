@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-03T12:30:02 IST" name="Default suite" finished-at="2023-05-03T12:30:57 IST" duration-ms="55023">
+    <groups>
+    </groups>
+    <test started-at="2023-05-03T12:30:02 IST" name="Default test" finished-at="2023-05-03T12:30:57 IST" duration-ms="55023">
+      <class name="NewTest3">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:NewTest3@47c81abf]" started-at="2023-05-03T12:30:02 IST" name="beforeTest" finished-at="2023-05-03T12:30:37 IST" duration-ms="34861" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="TC_001()[pri:0, instance:NewTest3@47c81abf]" started-at="2023-05-03T12:30:37 IST" name="TC_001" finished-at="2023-05-03T12:30:49 IST" duration-ms="11678" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_001 -->
+        <test-method is-config="true" signature="after1()[pri:0, instance:NewTest3@47c81abf]" started-at="2023-05-03T12:30:49 IST" name="after1" finished-at="2023-05-03T12:30:57 IST" duration-ms="8416" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after1 -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:NewTest3@47c81abf]" started-at="2023-05-03T12:30:58 IST" name="afterTest" finished-at="2023-05-03T12:31:00 IST" duration-ms="2085" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- NewTest3 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
